@@ -24,7 +24,8 @@ Government of Gujarat
 
 
 ## Use Cases
-![flowchart](https://github.com/user-attachments/assets/fa659efc-b4f4-417e-9edb-7df2d7c9df01)
+![image](https://github.com/user-attachments/assets/b7511c53-b61b-4f69-b1d2-cdd92b95979b)
+
 
 
 ## Technology Stack
